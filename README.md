@@ -1,0 +1,2 @@
+# vuewebpacksimpletest
+Created with CodeSandbox
